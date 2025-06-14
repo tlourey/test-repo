@@ -1,2 +1,2 @@
 # test-repo
-LOL RELEASE 2
+LOL RELEASE 0.2.1-alpha2
